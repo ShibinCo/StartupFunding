@@ -4,8 +4,6 @@ description: "\U0001F4D6 Curated wiki for Founders & Venture Capital Professiona
 
 # Venture Capital Simplified
 
-![](.gitbook/assets/screenshot-2021-05-28-at-4.48.28-pm.png)
-
 {% page-ref page="library/vc-dictionary.md" %}
 
 {% page-ref page="library/background-reading.md" %}
