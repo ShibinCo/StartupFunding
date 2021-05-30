@@ -27,5 +27,4 @@
   * [💡About the project](about/about-the-project.md)
   * [📮 Newsletter](about/newsletter.md)
   * [📋 Reference](about/reference.md)
-  * [💰 Support](about/support.md)
 
