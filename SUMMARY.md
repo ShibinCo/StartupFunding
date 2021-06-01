@@ -7,7 +7,7 @@
 * [📕 VC Dictionary](library/vc-dictionary.md)
 * [📖 Background Reading](library/background-reading.md)
 * [🔖 Diligence Questions](library/diligence-questions.md)
-* [🪧 Famous Pitchdecks](library/untitled.md)
+* [🪧 Pitchdecks](library/untitled.md)
 * [📩 Funding Newsletters](library/funding-news.md)
 * [📚 Learning Resources](library/learning-resources.md)
 

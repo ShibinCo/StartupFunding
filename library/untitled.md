@@ -1,4 +1,4 @@
-# 🪧 Famous Pitchdecks
+# 🪧 Pitchdecks
 
 **Pitchdeck of some of the most successful companies**  
 » [Airbnb](https://slidebean.com/templates/airbnb-pitch-deck)  
