@@ -4,10 +4,10 @@
 
 ## Library
 
-* [📕 VC Dictionary](library/vc-dictionary.md)
+* [📕 VC Dictionary](library/dictionary.md)
 * [📖 Background Reading](library/background-reading.md)
 * [🔖 Diligence Questions](library/diligence-questions.md)
-* [🪧 Pitchdecks](library/untitled.md)
+* [🪧 Pitchdecks](library/pitchdecks.md)
 * [📩 Funding Newsletters](library/funding-news.md)
 * [📚 Learning Resources](library/learning-resources.md)
 

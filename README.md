@@ -4,13 +4,13 @@ description: "\U0001F4D6 Curated wiki for Founders & Venture Capital Professiona
 
 # Venture Capital Simplified
 
-{% page-ref page="library/vc-dictionary.md" %}
+{% page-ref page="library/dictionary.md" %}
 
 {% page-ref page="library/background-reading.md" %}
 
 {% page-ref page="library/diligence-questions.md" %}
 
-{% page-ref page="library/untitled.md" %}
+{% page-ref page="library/pitchdecks.md" %}
 
 {% page-ref page="library/funding-news.md" %}
 
