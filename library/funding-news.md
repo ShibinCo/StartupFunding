@@ -4,7 +4,6 @@ description: Sources for funding news and updates
 
 # 📩 Funding Newsletters
 
-* [a16z](https://pages.a16z.com/email)
 * [Accelerated](https://accelerated.substack.com)
 * [AngelList Weekly](https://angel.co/newsletters)
 * [ARK Invest](https://ark-invest.com/subscribe/)
