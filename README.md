@@ -1,5 +1,5 @@
 ---
-description: "\U0001F4D6 Curated wiki for Founders & Venture Capital Professionals"
+description: "\U0001F4D6 Curated wiki for Investors & Venture Capital Professionals"
 ---
 
 # Venture Capital Simplified
