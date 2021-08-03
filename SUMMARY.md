@@ -9,22 +9,15 @@
 * [🔖 Diligence Questions](library/diligence-questions.md)
 * [🪧 Pitchdecks](library/pitchdecks.md)
 * [📩 Funding Newsletters](library/funding-news.md)
-* [📚 Learning Resources](library/learning-resources.md)
-
-## For VC Professionals \(Pro\) <a id="vc"></a>
-
-* [📋 Term Sheet](vc/term-sheet.md)
-* [🚴‍♂️ Investment Process](vc/investment-process.md)
-* [📜 Investment Memo](vc/investment-memo.md)
-* [📇 Investment Thesis](vc/investment-thesis.md)
-* [🗂 VC Tech Stack](vc/vc-tech-stack.md)
-* [🤝 Portfolio Support](vc/portfolio-support.md)
-* [✨ Templates](vc/modeling-templates-and-resources.md)
-
----
-
-* [About](about/README.md)
-  * [💡About the project](about/about-the-project.md)
-  * [📮 Newsletter](about/newsletter.md)
-  * [📋 Reference](about/reference.md)
+* [📋 Term Sheet](library/term-sheet.md)
+* [🚴‍♂️ Investment Process](library/investment-process.md)
+* [📜 Investment Memo](library/investment-memo.md)
+* [📇 Investment Thesis](library/investment-thesis.md)
+* [🗂 VC Tech Stack](library/vc-tech-stack.md)
+* [🤝 Portfolio Support](library/portfolio-support.md)
+* [✨ Templates](library/modeling-templates-and-resources.md)
+* [About](library/about/README.md)
+  * [💡About the project](library/about/about-the-project.md)
+  * [📮 Newsletter](library/about/newsletter.md)
+  * [📋 Reference](library/about/reference.md)
 
