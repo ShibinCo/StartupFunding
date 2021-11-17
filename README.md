@@ -1,34 +1,58 @@
 ---
-description: "\U0001F4D6 Curated wiki for Investors & Venture Capital Professionals"
+description: Demystifying Startup Funding and Venture Capital Financing
 ---
 
 # Venture Capital Simplified
 
-{% page-ref page="library/dictionary.md" %}
+{% content-ref url="library/dictionary.md" %}
+[dictionary.md](library/dictionary.md)
+{% endcontent-ref %}
 
-{% page-ref page="library/background-reading.md" %}
+{% content-ref url="library/background-reading.md" %}
+[background-reading.md](library/background-reading.md)
+{% endcontent-ref %}
 
-{% page-ref page="library/diligence-questions.md" %}
+{% content-ref url="library/diligence-questions.md" %}
+[diligence-questions.md](library/diligence-questions.md)
+{% endcontent-ref %}
 
-{% page-ref page="library/pitchdecks.md" %}
+{% content-ref url="library/pitchdecks.md" %}
+[pitchdecks.md](library/pitchdecks.md)
+{% endcontent-ref %}
 
-{% page-ref page="library/funding-news.md" %}
+{% content-ref url="library/funding-news.md" %}
+[funding-news.md](library/funding-news.md)
+{% endcontent-ref %}
 
-{% page-ref page="vc/term-sheet.md" %}
+{% content-ref url="vc/term-sheet.md" %}
+[term-sheet.md](vc/term-sheet.md)
+{% endcontent-ref %}
 
-{% page-ref page="vc/investment-process.md" %}
+{% content-ref url="vc/investment-process.md" %}
+[investment-process.md](vc/investment-process.md)
+{% endcontent-ref %}
 
-{% page-ref page="vc/investment-memo.md" %}
+{% content-ref url="vc/investment-memo.md" %}
+[investment-memo.md](vc/investment-memo.md)
+{% endcontent-ref %}
 
-{% page-ref page="vc/investment-thesis.md" %}
+{% content-ref url="vc/investment-thesis.md" %}
+[investment-thesis.md](vc/investment-thesis.md)
+{% endcontent-ref %}
 
-{% page-ref page="vc/vc-tech-stack.md" %}
+{% content-ref url="vc/vc-tech-stack.md" %}
+[vc-tech-stack.md](vc/vc-tech-stack.md)
+{% endcontent-ref %}
 
-{% page-ref page="vc/portfolio-support.md" %}
+{% content-ref url="vc/portfolio-support.md" %}
+[portfolio-support.md](vc/portfolio-support.md)
+{% endcontent-ref %}
 
-{% page-ref page="vc/modeling-templates-and-resources.md" %}
+{% content-ref url="vc/modeling-templates-and-resources.md" %}
+[modeling-templates-and-resources.md](vc/modeling-templates-and-resources.md)
+{% endcontent-ref %}
 
-{% page-ref page="about/about-the-project.md" %}
-
-
+{% content-ref url="about/about-the-project.md" %}
+[about-the-project.md](about/about-the-project.md)
+{% endcontent-ref %}
 
