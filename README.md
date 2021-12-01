@@ -1,8 +1,8 @@
 ---
-description: Demystifying Startup Funding and Venture Capital Financing
+description: Demystifying Startup Funding and Venture Capital Investments
 ---
 
-# Venture Capital Simplified
+# Startup Funding Simplified
 
 {% content-ref url="library/dictionary.md" %}
 [dictionary.md](library/dictionary.md)
