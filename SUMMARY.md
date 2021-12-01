@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Venture Capital Simplified](README.md)
+* [Startup Funding Simplified](README.md)
 
 ## Library
 
@@ -11,7 +11,7 @@
 * [📩 Funding Newsletters](library/funding-news.md)
 * [📚 Learning Resources](library/learning-resources.md)
 
-## For VC Professionals (Pro) <a href="vc" id="vc"></a>
+## For VC Professionals (Pro) <a href="#vc" id="vc"></a>
 
 * [📋 Term Sheet](vc/term-sheet.md)
 * [🚴 Investment Process](vc/investment-process.md)
