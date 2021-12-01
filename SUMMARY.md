@@ -4,7 +4,7 @@
 
 ## Library
 
-* [📕 VC Dictionary](library/dictionary.md)
+* [📕 Dictionary](library/dictionary.md)
 * [📖 Background Reading](library/background-reading.md)
 * [🔖 Diligence Questions](library/diligence-questions.md)
 * [🪧 Pitchdecks](library/pitchdecks.md)
