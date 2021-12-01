@@ -26,7 +26,8 @@
 * [Template for Creating a VC Investment Thesis](https://fi.co/insight/template-for-creating-a-vc-investment-thesis)
 * [Investment Thesis Fundamentals](https://www.slideshare.net/dmc500hats/investment-thesis-fundamentals-april-2016)
 * [In Search of Narrative Violations](http://www.bedrockcap.com/letter)
-* [FJ Labs’ Investment Strategy](https://fabricegrinda.com/fj-labs-investment-strategy) 
+* [FJ Labs’ Investment Strategy](https://fabricegrinda.com/fj-labs-investment-strategy)\
+
 
 ### A VC explains VC’s “Investment Thesis
 
@@ -34,6 +35,4 @@
 
 
 
-  
-
-
+\
