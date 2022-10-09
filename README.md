@@ -1,7 +1,7 @@
 ---
 description: >-
   Resources and Tools for Venture Capital Professionals (Partners, Principals,
-  Associates & Analyst)
+  Associates & Analysts)
 ---
 
 # Venture Collective
