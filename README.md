@@ -1,8 +1,8 @@
 ---
-description: Demystifying Startup Funding and Venture Capital Investments
+description: Resources and Tools for Venture Capital Professionals
 ---
 
-# Startup Funding Simplified
+# Venture Collective
 
 {% content-ref url="library/dictionary.md" %}
 [dictionary.md](library/dictionary.md)
@@ -55,4 +55,3 @@ description: Demystifying Startup Funding and Venture Capital Investments
 {% content-ref url="about/about-the-project.md" %}
 [about-the-project.md](about/about-the-project.md)
 {% endcontent-ref %}
-

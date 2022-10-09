@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Startup Funding Simplified](README.md)
+* [Venture Collective](README.md)
 
 ## Library
 
