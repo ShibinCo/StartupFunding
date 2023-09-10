@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Venture Collective](README.md)
+* [Venture Capital Wiki](README.md)
 
 ## Library
 
