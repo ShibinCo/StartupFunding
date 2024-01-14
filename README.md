@@ -2,9 +2,11 @@
 description: >-
   Resources and Tools for Venture Capital Professionals (Partners, Principals,
   Associates & Analysts)
+cover: .gitbook/assets/VC.png
+coverY: 0
 ---
 
-# Venture Collective
+# Venture Capital Wiki
 
 {% content-ref url="library/dictionary.md" %}
 [dictionary.md](library/dictionary.md)
