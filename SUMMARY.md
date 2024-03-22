@@ -17,7 +17,7 @@
 * [🚴 Investment Process](vc/investment-process.md)
 * [📜 Investment Memo](vc/investment-memo.md)
 * [📇 Investment Thesis](vc/investment-thesis.md)
-* [🗂 VC Tech Stack](vc/vc-tech-stack.md)
+* [🗂️ VC Tech Stack](vc/vc-tech-stack.md)
 * [🤝 Portfolio Support](vc/portfolio-support.md)
 * [✨ Templates](vc/modeling-templates-and-resources.md)
 

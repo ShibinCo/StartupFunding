@@ -2,7 +2,7 @@
 description: >-
   Resources and Tools for Venture Capital Professionals (Partners, Principals,
   Associates & Analysts)
-cover: .gitbook/assets/VC.png
+cover: .gitbook/assets/StartupWIki - Cover.png
 coverY: 0
 ---
 
