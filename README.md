@@ -1,6 +1,6 @@
 ---
 description: >-
-  Resources and Tools for Venture Capital Professionals (Partners, Principals,
+  Resources and Tools for Venture Capital Operators (Partners, Principals,
   Associates & Analysts)
 cover: .gitbook/assets/StartupWIki - Cover.png
 coverY: 0
